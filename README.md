@@ -12,7 +12,7 @@ Proyek ini adalah portofolio pribadi berbasis HTML, CSS, dan JavaScript dengan d
 ## Cara Menggunakan
 1. Clone repositori ini ke lokal:
    ```sh
-   git clone https://github.com/username/wks-portfolio.git
+   git clone https://github.com/username/portfolio.git
    ```
 2. Buka file `index.html` di browser.
 
